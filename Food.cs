@@ -1,4 +1,5 @@
-﻿public class Food
+﻿namespace ScalaCSharpComparison;
+public class Food
 {
     public Food(string name)
     {      
